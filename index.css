@@ -1,0 +1,14 @@
+p{
+    color: blue;
+}
+
+ul{
+    list-style-type: georgian;
+}
+
+div{
+    background-color: aqua;
+    border: 1px dashed red;
+    margin: 5px;
+    
+}
